@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2022",
+        "module": "es2022",
+        "strict": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "paths": {
+            "openai": ["./node_modules/openai"]
+        }
+    },
+    "exclude": ["node_modules"]
+}

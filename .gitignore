@@ -1,0 +1,4 @@
+.env
+node_modules
+context.txt
+.DS_Store
